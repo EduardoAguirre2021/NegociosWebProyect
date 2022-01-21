@@ -1,6 +1,6 @@
 <?php
 
-$mensaje = "Se la comen desde PHP";
+$mensaje = "Se la comen desde PHP y git";
 
 ?>
 
