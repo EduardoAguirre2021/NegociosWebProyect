@@ -1,6 +1,6 @@
 <?php
 
-$mensaje = "Se la comen desde PHP y git";
+$mensaje = "Con todo respeto se la comen desde PHP, Git y Github";
 
 ?>
 
@@ -13,6 +13,6 @@ $mensaje = "Se la comen desde PHP y git";
     <title>Document</title>
 </head>
 <body>
-    <h1><?php echo $mensaje?></h1>
+    <h1><?php echo $mensaje; ?></h1>
 </body>
 </html>
